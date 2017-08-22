@@ -1,4 +1,0 @@
-o	Plan de contingencia.
-o	Herramienta de control de riesgos
-o	Base de datos de riesgos 
-o	Plan de administración de riesgos
